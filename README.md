@@ -5,7 +5,9 @@ A 3D island game designed by Sasha.
 **Play it here: https://chen168.github.io/city-of-dasha/**
 
 Play as Dasha, collect things around your island, craft decorations, make friends who move in,
-play Tag, Tennis and Cooking at the Game Fence, and buy clothes with Dasha coins.
+play 13 games at the Game Fence, go fishing at the dock, go to school with your friends every morning,
+decorate your own house, adopt a pet, grow a garden, and buy clothes with Dasha coins.
+Every October the island gets ready for Halloween 🎃.
 
 Works on iPad, iPhone and computers. On iPad or iPhone, tap Share → *Add to Home Screen* to play it like an app.
 
